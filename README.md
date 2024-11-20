@@ -1,6 +1,6 @@
 # GIS-Day-DVDC
 
-![Descripción de la imagen](m-complementario/gis-day.jpg)
+![Description of the image](m-complementario/gis-day.jpg)
 
 Taller: Descarga y visualización de datos de Copernicus
 
